@@ -27,12 +27,12 @@
   "homepage": "https://github.com/arsenghazaryan/gulp-html-beautify#readme",
   "dependencies": {
     "js-beautify": "^1.5.10",
-    "rcloader": "^0.1.4",
+    "rcloader": "^0.2.2",
     "through2": "^2.0.0"
   },
   "devDependencies": {
     "gulp-util": "^3.0.7",
-    "mocha": "^2.3.4",
+    "mocha": "^5.2.0",
     "should": "^8.0.2"
   }
 }
